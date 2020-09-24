@@ -1,0 +1,41 @@
+#login
+{
+	background-image:linear-gradient(to bottom right,lightblue,pink);
+text-align: center;	
+	
+	
+}
+#play
+{
+	background-image:radial-gradient(lightblue,pink);
+
+	
+	
+}
+
+	.login_div1
+	{
+		background: lightblue;
+		
+		float: none ;
+	
+	}
+	.login_div2
+	{
+		background: pink;
+		
+		float: right ;
+	
+	}
+	#output
+	{
+		background-color:white;
+		border-radius: 10px;
+		border-top:linear-gradient(to bottom right,lightblue,pink); ;
+		padding: 10px;
+		float: none;
+		text-align: left;
+	}
+
+
+
